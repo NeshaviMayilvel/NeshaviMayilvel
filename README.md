@@ -1,6 +1,5 @@
 ### Hi there 👋, Nesh
 #### Development and Designing
-![Development and Designing]
 
  I love to code and design web pages now I am learning java, Html, CSS and SQL to become a developer and I have worked as Network Analyst but to work in development I quit my job and started learning new thingssss:);)))))),,....
 
