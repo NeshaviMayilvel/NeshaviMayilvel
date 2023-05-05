@@ -1,3 +1,3 @@
 ### Hi I am Nesh I love to code and design web pages now I am learning java, Html, Css and Sql to become a developer and I have worked as Network Analyst but to work in development I quit my job and started learning new thingssss:);)))))),,....
 
-(https://github-readme-stats.vercel.app/api?username=NeshaviMayilvel)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NeshaviMayilvel)](https://github.com/anuraghazra/github-readme-stats)
